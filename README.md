@@ -1,11 +1,8 @@
 <p align="center">
 
-![Darkfolio Preview](https://files-n24jxyctz.now.sh/darkfolio-preview.png)
-
 </p>
 <p align="center">
-  <h3 align="center">Darkfolio</h3>
-  <p align="center">Portfolio starter theme for Gridsome and Forestry<p>
+  <h3 align="center">My Portfolio</h3>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/darkfolio/deploys"><img src="https://api.netlify.com/api/v1/badges/7a848794-d3e7-48c9-8902-da1cdc110189/deploy-status" alt="Netlify Status"></a>
